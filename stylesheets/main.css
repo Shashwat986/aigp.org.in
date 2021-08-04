@@ -77,7 +77,7 @@ img.max-h-128 {
 
 /*adds font awesome stars*/
 ul.has-box {
-  list-style: none; }
+  list-style: none !important; }
 
 ul.has-box li:before {
   content: '\f1b2';
