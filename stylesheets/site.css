@@ -13,3 +13,8 @@ a {
 .middleman-logo {
   margin-bottom: 1rem;
   width: 10rem; }
+
+.is-pulled-bottom-right {
+  position: absolute;
+  right: 0;
+  bottom: 0; }

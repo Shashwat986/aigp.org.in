@@ -85,3 +85,8 @@ ul.has-box li:before {
   float: left;
   margin-left: -1.5em;
   color: #147efb; }
+
+.is-pulled-bottom-right {
+  position: absolute;
+  right: 0;
+  bottom: 0; }
