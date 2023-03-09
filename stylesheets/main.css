@@ -90,3 +90,6 @@ ul.has-box li:before {
   position: absolute;
   right: 0;
   bottom: 0; }
+
+.is-underlined {
+  text-decoration: underline; }
