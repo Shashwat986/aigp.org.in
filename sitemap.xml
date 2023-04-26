@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aigp.org.in/CNAME</loc>
+    <loc>https://aigp.org.in/</loc>
   </url>
   <url>
-    <loc>https://aigp.org.in/</loc>
+    <loc>https://aigp.org.in/CNAME</loc>
   </url>
   <url>
     <loc>https://aigp.org.in/sitemap.xml</loc>
   </url>
   <url>
-    <loc>https://aigp.org.in/pages/about.html</loc>
-  </url>
-  <url>
-    <loc>https://aigp.org.in/pages/community.html</loc>
-  </url>
-  <url>
-    <loc>https://aigp.org.in/pages/yeonwoo_meetups.html</loc>
-  </url>
-  <url>
-    <loc>https://aigp.org.in/pages/news.html</loc>
+    <loc>https://aigp.org.in/pages/meetups/kolkata20230122.html</loc>
   </url>
   <url>
     <loc>https://aigp.org.in/pages/learn.html</loc>
   </url>
   <url>
+    <loc>https://aigp.org.in/pages/meeplecon.html</loc>
+  </url>
+  <url>
     <loc>https://aigp.org.in/pages/contact.html</loc>
+  </url>
+  <url>
+    <loc>https://aigp.org.in/pages/meeplecon2023_results.html</loc>
+  </url>
+  <url>
+    <loc>https://aigp.org.in/pages/news.html</loc>
+  </url>
+  <url>
+    <loc>https://aigp.org.in/pages/player_list.html</loc>
+  </url>
+  <url>
+    <loc>https://aigp.org.in/pages/tournaments/kpmc2022.html</loc>
   </url>
   <url>
     <loc>https://aigp.org.in/pages/tournaments/wagc2022.html</loc>
@@ -34,18 +40,12 @@
     <loc>https://aigp.org.in/pages/tournaments/kpmc2021.html</loc>
   </url>
   <url>
-    <loc>https://aigp.org.in/pages/tournaments/kpmc2022.html</loc>
+    <loc>https://aigp.org.in/pages/community.html</loc>
   </url>
   <url>
-    <loc>https://aigp.org.in/pages/meeplecon.html</loc>
+    <loc>https://aigp.org.in/pages/about.html</loc>
   </url>
   <url>
-    <loc>https://aigp.org.in/pages/meetups/kolkata20230122.html</loc>
-  </url>
-  <url>
-    <loc>https://aigp.org.in/pages/player_list.html</loc>
-  </url>
-  <url>
-    <loc>https://aigp.org.in/pages/meeplecon2023_results.html</loc>
+    <loc>https://aigp.org.in/pages/yeonwoo_meetups.html</loc>
   </url>
 </urlset>
